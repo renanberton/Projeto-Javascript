@@ -1,2 +1,3 @@
-# Projeto-Javascript
-Projeto Animais Fantásticos realizado através da plataforma Origamid, com o intuito de aprender novas habilidades com Javascript.
+# Projeto-Javascript <br>
+Projeto Animais Fantásticos realizado através da plataforma Origamid, feito com Html e css. <br>
+Posteriormente será usado para aplicar conhecimentos de Javascript.<br>
